@@ -20,7 +20,10 @@ its web interface: thus notebooks in this repository may be accessed
 directly from the project web interface with no need for downloading. 
 We see this as a great example of open-source technology projects 
 interfacing to create a rich learning environment that promotes 
-student participation in their own learning process.
+student participation in their own learning process. However, be warned 
+this option does not work as well as executing the notebook directly 
+on a Jupyter of your choice; in case of difficulties, please do not 
+hesitate to actually download the .ipynb files and proceed from there. 
 
 
 ## Feedback
