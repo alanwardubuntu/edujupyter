@@ -11,7 +11,7 @@ to achieve a better understanding of the underlying principles.
 Example resources are offered here in .ipynb files, that may be 
 downloaded and used in a Jupyter notebook environment, either locally 
 hosted or remotely on a server. In this sense, the original Jupyter 
-server at [Jupyter.org!](http://www.jupyter.org) is recommended as a computing 
+server at [Jupyter.org](http://www.jupyter.org) is recommended as a computing 
 platform accessible from simple devices such as tablets, since using 
 the notebook environment is possible without installing any software. 
 
@@ -39,5 +39,5 @@ provisions of the Creative Commons Attribution-Share Alike-Non Commercial
 License, version 4.0 or more recent. The full text of this licence can 
 be found here:
 
-[AS-BY-NC 4.0!](https://creativecommons.org/licenses/by-nc/4.0/) 
+[AS-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
 
